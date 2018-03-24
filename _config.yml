@@ -1,10 +1,10 @@
-title: Streamdata Gallery Background Check
-url: background-check.streamdata.gallery
-tag: Background Check
+title: Streamdata Gallery Background Checks
+url: background-checks.streamdata.gallery
+tag: Background Checks
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: background-check
+github_repo: background-checks
 github_branch: master
 collections:
   listings:
